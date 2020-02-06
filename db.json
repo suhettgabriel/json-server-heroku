@@ -1,5 +1,5 @@
-}
-"alunos": [
+{
+  "alunos": [
     {
       "id": 1,
       "nome": "Marcos",
@@ -9,8 +9,7 @@
       "id": 2,
       "nome": "André",
       "sobrenome": "Noguer",
-      }
-    },
+      },
     {
       "id": 3,
       "nome": "Paulo",
@@ -23,3 +22,4 @@
     }
   ]
 }
+
